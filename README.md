@@ -9,4 +9,4 @@ It's just a basic prebuild docker image for mojo
 
 ## Build yourself the image
 
-- `make buils` 
+- `make build` 
