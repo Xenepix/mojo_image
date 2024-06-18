@@ -44,3 +44,4 @@ ENV PATH="$PATH:$MODULAR_HOME/pkg/packages.modular.com_mojo/bin"
 # Change permissions to allow for Apptainer/Singularity containers
 RUN chmod -R a+rwX /root
 
+CMD ["sleep", "3600"]
